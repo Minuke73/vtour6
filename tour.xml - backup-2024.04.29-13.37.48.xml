@@ -25,7 +25,7 @@
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="382.563" vlookat="-6.920" fovtype="MFOV" fov="133.182" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="389.180" vlookat="0.524" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/140-1.tiles/preview.jpg" />
 
